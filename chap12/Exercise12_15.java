@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class Exercise12_15 {
     public static void main(String[] args) throws Exception {
-        java.io.File file = new java.io.File("intFile");
+        java.io.File file = new java.io.File("intFile.txt");
         if (file.exists()) {
             System.out.print("intFile.txt already exists.\n");
             System.exit(1);
