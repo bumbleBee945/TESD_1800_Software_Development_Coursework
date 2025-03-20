@@ -2,3 +2,6 @@
 *.class
 *.txt
 *.zip
+*.dat
+test.java
+Loan.java
